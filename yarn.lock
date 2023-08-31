@@ -7028,7 +7028,7 @@ __metadata:
     prettier: "npm:^2.8.8"
     toml: "npm:^3.0.0"
     vite: "npm:^4.3.3"
-    wrangler: "npm:^2.17.0"
+    wrangler: "npm:^2.20.1"
     zx: "npm:^7.2.1"
   languageName: unknown
   linkType: soft
@@ -8102,9 +8102,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"wrangler@npm:^2.17.0":
-  version: 2.17.0
-  resolution: "wrangler@npm:2.17.0"
+"wrangler@npm:^2.20.1":
+  version: 2.20.1
+  resolution: "wrangler@npm:2.20.1"
   dependencies:
     "@cloudflare/kv-asset-handler": "npm:^0.2.0"
     "@esbuild-plugins/node-globals-polyfill": "npm:^0.1.1"
@@ -8128,7 +8128,7 @@ __metadata:
   bin:
     wrangler: bin/wrangler.js
     wrangler2: bin/wrangler.js
-  checksum: 7924dfaac7538cbd38023a4b71e94989a6b94b31b2b9d67daa94d0e1a01f90efbd32f8ed9c2d7b85cc4b66e92c49cc8be2981190224daced78366556de2049fb
+  checksum: 6fb611165f5fe8976ef90d2fce0caa6e565ccb0a2f8d18b3ea9dc920c561bd2b23ff980e1895ad6947f8793cb0dff8985aee13a49c5e4a11faf58bac2c5c6b0d
   languageName: node
   linkType: hard
 
